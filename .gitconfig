@@ -105,3 +105,6 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	name = Shane M Grey
+	email = shanemgrey@gmail.com
